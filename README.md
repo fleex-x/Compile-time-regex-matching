@@ -5,6 +5,6 @@ Build project and run tests:
 
 ```
 git clone https://github.com/fleex-x/compile-time-regex-matching.git
-cd Compile-time-regex-matching
+cd compile-time-regex-matching
 cmake . && make
 ```
